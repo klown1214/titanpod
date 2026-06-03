@@ -18,10 +18,11 @@
       <itunes:email>klown1214@gmail.com</itunes:email>
     </itunes:owner>
     <image>
-      <url>https://klown1214.github.io/criminal-legacy/cover.jpg</url>
+      <url>https://klown1214.github.io/titanpod/criminal-legacy/cover.png</url>
       <title>Criminal Legacy</title>
-      <link>https://klown1214.github.io/criminal-legacy</link>
+      <link>https://klown1214.github.io/titanpod/criminal-legacy/feed.xml</link>
     </image>
+    <itunes:image href="https://klown1214.github.io/titanpod/criminal-legacy/cover.png" />
   <item><title>Criminal Legacy: Billy the Kid</title><description>Criminal Legacy Episode 1: Billy the Kid
 
 📚 Further Reading:
